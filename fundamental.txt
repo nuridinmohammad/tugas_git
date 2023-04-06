@@ -1,0 +1,13 @@
+===GIT===
+mempelajari perintah dasar git seperti :
+1. git init untuk initial awal ketika kita mengerjakan projek dengan menggunak git.
+2. git config untuk menkonfigurasi git ketika kita ingin berkolaborasi menggunakan git remote
+3. git status untuk melihat status file di tiga stage area yaitu stage working area, staging area, commit area.
+4. git add untuk  memindahkan file ke staging area serta siap untuk commit.
+5. git commit untuk menyimpan dan mencatat perubahan file.
+6. git log untuk untuk melihat history commit.
+7. git clone untuk mencloning repo dari server.
+8. git push untuk mengirimkan commitan akhir ke server.
+9. git remote untuk jembatan berinteraksi dari local ke server.
+10. git pull untuk mengambil perubahan terakhir commitan dari server ke local.
+11. git fetch untuk meliha perubahan terakhir commitan dari server.
