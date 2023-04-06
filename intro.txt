@@ -1,0 +1,19 @@
+A. MERN
+    MERN stand for MongoDB, ExpressJS, ReactJS and NodeJS.
+    we are going to study as follows :
+    GIT
+    Basic Frontend
+    Javascript Dasar
+    Javascript OOP
+    Asynchronous
+    React JS
+    Node JS
+    Express JS
+    MySQL
+    MongoDB
+    Final Project
+    Penyaluran Kerja
+B. GIT
+    1. satu version control system yang diciptakan oleh Linus Torvalds fungsinya untuk mencatat semua perubahan file2 sedetail munkin.
+    2. Manfaatnya menyimpan, berkolaborasi, berkontribusi, tracking Perubahan, dan memahamai deployment.
+    3. Waktu dibutuhkannya adalah saat membangun sistem, versi app, backup code,dan berkolaborasi dengan programmer lain.
