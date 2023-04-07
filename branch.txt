@@ -1,0 +1,11 @@
+A. Branch adalah cabang dari main repo
+    biasa digunakan untuk manajemen pegembangan saat mengembangkan fitur.
+B. perintah dasar Branch
+    git branch untuk melihat semua branch di lokal
+    git branch --all untuk melihat semua branch di public
+    Git branch nama_branch: membuat branch baru
+    Git checkout nama_branch: untuk berpindah branch
+    Git branch -d nama_branch: untuk menghapus branch
+    git merge untuk menggabungkan commit dari 2 branch
+
+    Conflict adalah Kondisi yang terjadi ketika merging 2 branch yang memiliki perubahan pada file yang sama
