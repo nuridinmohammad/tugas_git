@@ -1,0 +1,3 @@
+GIT-GUI
+git berbasis GUI untuk memudahkan dalam pengoperasianya seperti
+solving cconflict lebih mudah dan mempercepat kinerjanya.
